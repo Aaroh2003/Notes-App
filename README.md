@@ -176,14 +176,12 @@ Given more time, I would implement:
 
 1. **Advanced Search**: Filter by date ranges, tags, or note metadata
 2. **Bulk Operations**: Select multiple notes for batch delete/export
-3. **Rich Text Editor**: Support for formatting, links, images, and markdown
-4. **Note Categories/Tags**: Organize notes with custom labels and colors
+3. **Full-text Search**: Search within note content with highlighting
+4. **Advanced Sorting**: Custom sort orders, pinned notes, manual reordering
 5. **Infinite Scroll**: Alternative to pagination for smoother browsing
 6. **Keyboard Shortcuts**: Power-user features for quick navigation
 7. **Collaborative Features**: Share notes, comments, and real-time editing
-8. **PWA Features**: Offline support, push notifications, app installation
-9. **Advanced Sorting**: Custom sort orders, pinned notes, manual reordering
-10. **Full-text Search**: Search within note content with highlighting
+8. **PWA Features**: Offline support
 
 ## 🛠️ Trade-offs & Assumptions
 
