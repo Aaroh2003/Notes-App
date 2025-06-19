@@ -179,16 +179,11 @@ Given more time, I would implement:
 3. **Rich Text Editor**: Support for formatting, links, images, and markdown
 4. **Note Categories/Tags**: Organize notes with custom labels and colors
 5. **Infinite Scroll**: Alternative to pagination for smoother browsing
-6. **Auto-save**: Save drafts as user types with conflict resolution
-7. **Note Templates**: Pre-defined note structures for common use cases
-8. **Export/Import**: Backup and restore functionality (JSON, CSV, PDF)
-9. **Collaborative Features**: Share notes, comments, and real-time editing
-10. **PWA Features**: Offline support, push notifications, app installation
-11. **Advanced Sorting**: Custom sort orders, pinned notes, manual reordering
-12. **Full-text Search**: Search within note content with highlighting
-13. **Keyboard Shortcuts**: Power-user features for quick navigation
-14. **Note Versioning**: Track changes and restore previous versions
-15. **Analytics**: Usage statistics and note creation patterns
+6. **Keyboard Shortcuts**: Power-user features for quick navigation
+7. **Collaborative Features**: Share notes, comments, and real-time editing
+8. **PWA Features**: Offline support, push notifications, app installation
+9. **Advanced Sorting**: Custom sort orders, pinned notes, manual reordering
+10. **Full-text Search**: Search within note content with highlighting
 
 ## 🛠️ Trade-offs & Assumptions
 
